@@ -4,7 +4,7 @@ Write CV by HTML and CSS
 ## About me
 - **Name:** Lê Ngọc Phương Đạt
 - **Nickname:** Kachooka Koo Koo
-- **Y.O.B:** 1995
+- **Y.O.B:** 199x
 - **High:** 176 cm
 - **Weight:** 67 kg
 - **Blood group:** AB+
